@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Vea Canal" tvg-logo="" group-title="General",Vea Canal
+udp://@232.100.0.97:1237
+#EXTINF:-1 tvg-id="Sky Sport" tvg-logo="" group-title="General",Sky Sport
+udp://@232.100.0.105:1237
+#EXTINF:-1 tvg-id="Telemundo" tvg-logo="" group-title="General",Telemundo
+udp://@232.100.0.128:1237
+#EXTINF:-1 tvg-id="A3 Series" tvg-logo="" group-title="General",A3 Series 
+udp://@232.100.0.51:1237
+#EXTINF:-1 tvg-id="Baby Tv" tvg-logo="" group-title="General",Baby Tv
+udp://@232.100.0.130:1237
+#EXTINF:-1 tvg-id="HBO" tvg-logo="" group-title="General",HBO
+udp://@232.100.0.103:1237
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="" group-title="General",HBO 2
+udp://@232.100.0.146:1237
+#EXTINF:-1 tvg-id="HBO Plus" tvg-logo="" group-title="General",HBO Plus
+udp://@232.100.0.144:1237
+#EXTINF:-1 tvg-id="Adult Swim" tvg-logo="" group-title="General",Adult Swinm
+udp://@232.100.0.101:1237
+#EXTINF:-1 tvg-id="BBC News" tvg-logo="" group-title="General",BBC News
+udp://@232.100.0.116:1237
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="" group-title="General",ESPN 4
+udp://@232.100.0.56:1237
+#EXTINF:-1 tvg-id="Semillitas" tvg-logo="" group-title="General",Semillitas
+udp://@232.100.0.152:1237
+#EXTINF:-1 tvg-id="Baby First" tvg-logo="" group-title="General",Baby First
+udp://@232.100.0.156:1237
+#EXTINF:-1 tvg-id="Canal 11 Gua" tvg-logo="" group-title="General",Canal 11 Gua
+udp://@232.100.0.11:1237
+#EXTINF:-1 tvg-id="Canal 13 Gua" tvg-logo="" group-title="General",Canal 13 Gua
+udp://@232.100.0.13:1237
+#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="" group-title="General",ESPN 3
+udp://@232.100.0.55:1237
+#EXTINF:-1 tvg-id="Multicinema" tvg-logo="" group-title="General",Multicinema
+udp://@232.100.0.72:1237
+#EXTINF:-1 tvg-id="Sun Channel" tvg-logo="" group-title="General",Sun Channel
+udp://@232.100.0.157:1237
+#EXTINF:-1 tvg-id="Canal 3 Gua" tvg-logo="" group-title="General",Canal 3 Gua
+udp://@232.100.0.3:1237
+#EXTINF:-1 tvg-id="Canal 7 Gua" tvg-logo="" group-title="General",Canal 7 Gua
+udp://@232.100.0.7:1237
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="" group-title="General",ESPN
+udp://@232.100.0.53:1237
+#EXTINF:-1 tvg-id="E!" tvg-logo="" group-title="General",E!
+udp://@232.100.0.37:1237
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="" group-title="General",ESPN 2
+udp://@232.100.0.171:1237
+#EXTINF:-1 tvg-id="Warner" tvg-logo="" group-title="General",Warner
+udp://@232.100.0.50:1237
+#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="" group-title="General",Comedy Central
+udp://@232.100.0.161:1237
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-logo="" group-title="General",Discovery Theater
+udp://@232.100.0.155:1237
+#EXTINF:-1 tvg-id="Universal Comedy" tvg-logo="" group-title="General",Universal Comedy
+udp://@232.100.0.129:1237
+#EXTINF:-1 tvg-id="Universal Crime" tvg-logo="" group-title="General",Universal Crime
+udp://@232.100.0.178:1237
+#EXTINF:-1 tvg-id="Universal Prime" tvg-logo="" group-title="General",Universal Prime
+udp://@232.100.0.179:1237
+#EXTINF:-1 tvg-id="CineMax" tvg-logo="" group-title="General",CineMax
+udp://@232.100.0.70:1237
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="" group-title="General",Disney Channel
+udp://@232.100.0.14:1237
+#EXTINF:-1 tvg-id="ESPN 5" tvg-logo="" group-title="General",ESPN 5
+udp://@232.100.0.186:1237
+#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="" group-title="General",Studio Universal
+udp://@232.100.0.46:1237
+#EXTINF:-1 tvg-id="TVE" tvg-logo="" group-title="General",TVE
+udp://@232.100.0.109:1237
+#EXTINF:-1 tvg-id="Discovery World" tvg-logo="" group-title="General",Discovery World
+udp://@232.100.0.170:1237
+#EXTINF:-1 tvg-id="Universal Cinema" tvg-logo="" group-title="General",Universal Cinema
+udp://@232.100.0.189:1237
+#EXTINF:-1 tvg-id="Tooncast" tvg-logo="" group-title="General",Tooncast
+udp://@232.100.0.21:1237
+#EXTINF:-1 tvg-id="Azteca Guate" tvg-logo="" group-title="General",Azteca Guate
+udp://@232.100.0.8:1237
+#EXTINF:-1 tvg-id="USA" tvg-logo="" group-title="General",USA
+udp://@232.100.0.160:1237

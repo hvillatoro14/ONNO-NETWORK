@@ -235,3 +235,10 @@ udp://@232.100.0.47:1237
 udp://@232.100.0.88:1237
 #EXTINF:-1 tvg-id="Univision" tvg-logo="" group-title="General",Univision
 udp://@232.100.0.10:1237
+#EXTINF:-1 tvg-id="XHGC Canal 5" tvg-logo="" group-title="General",XHGC Canal 5
+udp://@239.0.0.8:1012
+#EXTINF:-1 tvg-id="TN23" tvg-logo="" group-title="General",TN23
+udp://@232.100.2.23:1237
+#EXTINF:-1 tvg-id="Canal 27" tvg-logo="" group-title="General",Canal 27
+udp://@239.100.30.8:1234
+

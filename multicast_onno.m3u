@@ -73,8 +73,6 @@ udp://@232.100.0.170:1237
 udp://@232.100.0.189:1237
 #EXTINF:-1 tvg-id="Tooncast" tvg-logo="" group-title="General",Tooncast
 udp://@232.100.0.21:1237
-#EXTINF:-1 tvg-id="Azteca Guate" tvg-logo="" group-title="General",Azteca Guate
-udp://@232.100.0.8:1237
 #EXTINF:-1 tvg-id="USA" tvg-logo="" group-title="General",USA
 udp://@232.100.0.160:1237
 #EXTINF:-1 tvg-id="Natgeo" tvg-logo="" group-title="General",Natgeo
